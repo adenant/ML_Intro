@@ -1,0 +1,21 @@
+theme: moon
+# background: assets/bg.jpg
+# background-size: cover
+
+highlight: monokai
+
+slide-number: true
+
+# footnote: Template based on Sudharshan Ravindran's Intro to React slides"
+
+# mathjax: TeX-MML-AM_HTMLorMML-full
+
+vertical-center: true
+
+theme-override: assets/css/main.css
+
+transition: concave
+
+mousewheel: false
+
+gatoken: UA-83943642-2
